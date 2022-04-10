@@ -1,0 +1,7 @@
+name: TransferAll
+api: 4.0.0
+main: Krishvy\TransferAll
+version: 1.0.0
+permissions:
+  transferall.command:
+    default: op
